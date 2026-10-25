@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "agentfactory-tutor": {
+      "type": "http",
+      "url": "https://zia-tutor-ai.panaversity.org/mcp",
+      "oauth": { "clientId": "zia-tutor-ai", "callbackPort": 3118 }
+    }
+  }
+}

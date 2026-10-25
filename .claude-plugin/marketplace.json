@@ -1,0 +1,14 @@
+{
+  "name": "zia-tutor-ai",
+  "description": "Zia Tutor AI for Claude Code, from Panaversity.",
+  "owner": {
+    "name": "Panaversity"
+  },
+  "plugins": [
+    {
+      "name": "zia-tutor-ai",
+      "source": "./",
+      "description": "Zia Tutor AI: the personal learning agent for The AI Agent Factory, with its skill and the Zia Tutor AI MCP connector bundled together."
+    }
+  ]
+}

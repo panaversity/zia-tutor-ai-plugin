@@ -1,0 +1,17 @@
+{
+  "name": "zia-tutor-ai",
+  "version": "0.1.0",
+  "description": "Zia Tutor AI: the personal learning agent for The AI Agent Factory, with its skill and the Zia Tutor AI MCP connector bundled together.",
+  "author": {
+    "name": "Panaversity"
+  },
+  "homepage": "https://agentfactory.panaversity.org",
+  "keywords": [
+    "tutor",
+    "agent-factory",
+    "panaversity",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/panaversity/zia-tutor-ai-plugin"
+}
